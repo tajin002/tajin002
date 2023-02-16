@@ -1,4 +1,4 @@
 ## Hi, i'm Tajin Shawon
-###### Frontend Developer
+Frontend Developer
 #
 🚀 Let's get connected:
