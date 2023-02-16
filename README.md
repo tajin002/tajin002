@@ -100,13 +100,6 @@
 </a>
 </li>
 
-<br>
-
-<li>
-<a href="mailto:tajinshawon002@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
 	
 </ul>
 </div>
