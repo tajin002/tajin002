@@ -1,2 +1,2 @@
-# Tajin-Shawon
-Frontend Developer
+# Hi, i'm Tajin-Shawon
+######Frontend Developer
