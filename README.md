@@ -96,7 +96,7 @@
 
 <li>
 <a href="(https://twitter.com/tajin_shawon)" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
+<img src="https://camo.githubusercontent.com/9703657cee4a099e8b78567a2d7517509ae76f3768df433c7e90c66ba26af343/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333030616365652e7376673f636f6c6f723d314441314632267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465/>
 </a>
 </li>
 
