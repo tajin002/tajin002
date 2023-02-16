@@ -78,15 +78,7 @@
 </p>
 
 <br>
-<br>
 
------
-
-<br>
-
------
-
-<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -140,6 +132,5 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+Credit: [Tajin Shawon](https://github.com/tajin002)
 
-Last Edited on: 09/11/2022
