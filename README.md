@@ -34,7 +34,7 @@
 
 - **Languages**:
     
-    ![C]([https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white](https://camo.githubusercontent.com/054ce4598d74fecc91439ea092a631c886a52d2e13e17440e5537b26f5649976/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d79656c6c6f772e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465))
+    ![C]([https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white](https://camo.githubusercontent.com/054ce4598d74fecc91439ea092a631c886a52d2e13e17440e5537b26f5649976/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d79656c6c6f772e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
